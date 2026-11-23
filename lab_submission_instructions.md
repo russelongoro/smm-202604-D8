@@ -30,7 +30,11 @@ Through this lab, I learned how to serve trained machine learning models using a
 |:--------------------------------------------------------------------------------------------------------------------------------------|:------------|
 | **Student ID**                                                                                                                        |  169177           |
 | **Name**                                                                                                                              |  Russel Jamie           |
-| **What part of the lab did you personally<br/>contribute to (provide a link to the<br/>branch(es)), and what did you learn from it?** |             |
+| **What part of the lab did you personally<br/>contribute to (provide a link to the<br/>branch(es)), and what did you learn from it?** |    I contributed to verifying the Docker-based deployment of our Flask API using Gunicorn and Nginx. I tested the containerized application and documented the steps required to run and access the API through the reverse proxy.
+
+Through this lab, I learned how Docker containers work, how Gunicorn serves Flask applications, and how Nginx routes incoming requests to backend services.
+
+ **Contribution branch:** https://github.com/BI-course/smm-202604-D8/tree/feature/russel-contribution        |
 
 **Member 4:**
 
